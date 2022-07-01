@@ -1,0 +1,16 @@
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\List.csproj.AssemblyReference.cache
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\List.AssemblyInfo.cs
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+D:\Learn\CTY\Buoi1\List\List\bin\Debug\net5.0\List.exe
+D:\Learn\CTY\Buoi1\List\List\bin\Debug\net5.0\List.deps.json
+D:\Learn\CTY\Buoi1\List\List\bin\Debug\net5.0\List.runtimeconfig.json
+D:\Learn\CTY\Buoi1\List\List\bin\Debug\net5.0\List.runtimeconfig.dev.json
+D:\Learn\CTY\Buoi1\List\List\bin\Debug\net5.0\List.dll
+D:\Learn\CTY\Buoi1\List\List\bin\Debug\net5.0\ref\List.dll
+D:\Learn\CTY\Buoi1\List\List\bin\Debug\net5.0\List.pdb
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\List.dll
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\ref\List.dll
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\List.pdb
+D:\Learn\CTY\Buoi1\List\List\obj\Debug\net5.0\List.genruntimeconfig.cache
