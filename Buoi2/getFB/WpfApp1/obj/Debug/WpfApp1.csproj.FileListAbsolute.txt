@@ -1,0 +1,15 @@
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\App.g.cs
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\MainWindow.baml
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Learn\CTY\Buoi2\getFB\WpfApp1\obj\Debug\WpfApp1.pdb

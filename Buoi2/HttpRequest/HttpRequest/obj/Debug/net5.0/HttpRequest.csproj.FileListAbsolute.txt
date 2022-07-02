@@ -1,0 +1,16 @@
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\bin\Debug\net5.0\HttpRequest.exe
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\bin\Debug\net5.0\HttpRequest.deps.json
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\bin\Debug\net5.0\HttpRequest.runtimeconfig.json
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\bin\Debug\net5.0\HttpRequest.runtimeconfig.dev.json
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\bin\Debug\net5.0\HttpRequest.dll
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\bin\Debug\net5.0\ref\HttpRequest.dll
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\bin\Debug\net5.0\HttpRequest.pdb
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\HttpRequest.csproj.AssemblyReference.cache
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\HttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\HttpRequest.AssemblyInfoInputs.cache
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\HttpRequest.AssemblyInfo.cs
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\HttpRequest.csproj.CoreCompileInputs.cache
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\HttpRequest.dll
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\ref\HttpRequest.dll
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\HttpRequest.pdb
+D:\Learn\CTY\Buoi2\HttpRequest\HttpRequest\obj\Debug\net5.0\HttpRequest.genruntimeconfig.cache
