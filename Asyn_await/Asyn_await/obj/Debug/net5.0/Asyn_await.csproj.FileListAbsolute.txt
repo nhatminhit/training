@@ -1,0 +1,16 @@
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\bin\Debug\net5.0\Asyn_await.exe
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\bin\Debug\net5.0\Asyn_await.deps.json
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\bin\Debug\net5.0\Asyn_await.runtimeconfig.json
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\bin\Debug\net5.0\Asyn_await.runtimeconfig.dev.json
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\bin\Debug\net5.0\Asyn_await.dll
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\bin\Debug\net5.0\ref\Asyn_await.dll
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\bin\Debug\net5.0\Asyn_await.pdb
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\Asyn_await.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\Asyn_await.AssemblyInfoInputs.cache
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\Asyn_await.AssemblyInfo.cs
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\Asyn_await.csproj.CoreCompileInputs.cache
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\Asyn_await.dll
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\ref\Asyn_await.dll
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\Asyn_await.pdb
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\Asyn_await.genruntimeconfig.cache
+D:\Learn\CTY\Buoi3\Asyn_await\Asyn_await\obj\Debug\net5.0\Asyn_await.csproj.AssemblyReference.cache

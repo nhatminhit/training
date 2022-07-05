@@ -1,0 +1,15 @@
+D:\Learn\CTY\Buoi3\XML\XML\bin\Debug\net5.0\XML.exe
+D:\Learn\CTY\Buoi3\XML\XML\bin\Debug\net5.0\XML.deps.json
+D:\Learn\CTY\Buoi3\XML\XML\bin\Debug\net5.0\XML.runtimeconfig.json
+D:\Learn\CTY\Buoi3\XML\XML\bin\Debug\net5.0\XML.runtimeconfig.dev.json
+D:\Learn\CTY\Buoi3\XML\XML\bin\Debug\net5.0\XML.dll
+D:\Learn\CTY\Buoi3\XML\XML\bin\Debug\net5.0\ref\XML.dll
+D:\Learn\CTY\Buoi3\XML\XML\bin\Debug\net5.0\XML.pdb
+D:\Learn\CTY\Buoi3\XML\XML\obj\Debug\net5.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CTY\Buoi3\XML\XML\obj\Debug\net5.0\XML.AssemblyInfoInputs.cache
+D:\Learn\CTY\Buoi3\XML\XML\obj\Debug\net5.0\XML.AssemblyInfo.cs
+D:\Learn\CTY\Buoi3\XML\XML\obj\Debug\net5.0\XML.csproj.CoreCompileInputs.cache
+D:\Learn\CTY\Buoi3\XML\XML\obj\Debug\net5.0\XML.dll
+D:\Learn\CTY\Buoi3\XML\XML\obj\Debug\net5.0\ref\XML.dll
+D:\Learn\CTY\Buoi3\XML\XML\obj\Debug\net5.0\XML.pdb
+D:\Learn\CTY\Buoi3\XML\XML\obj\Debug\net5.0\XML.genruntimeconfig.cache

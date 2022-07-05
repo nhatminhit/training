@@ -1,0 +1,16 @@
+D:\Learn\CTY\Buoi3\Regular\Regular\bin\Debug\net5.0\Regular.exe
+D:\Learn\CTY\Buoi3\Regular\Regular\bin\Debug\net5.0\Regular.deps.json
+D:\Learn\CTY\Buoi3\Regular\Regular\bin\Debug\net5.0\Regular.runtimeconfig.json
+D:\Learn\CTY\Buoi3\Regular\Regular\bin\Debug\net5.0\Regular.runtimeconfig.dev.json
+D:\Learn\CTY\Buoi3\Regular\Regular\bin\Debug\net5.0\Regular.dll
+D:\Learn\CTY\Buoi3\Regular\Regular\bin\Debug\net5.0\ref\Regular.dll
+D:\Learn\CTY\Buoi3\Regular\Regular\bin\Debug\net5.0\Regular.pdb
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\Regular.csproj.AssemblyReference.cache
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\Regular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\Regular.AssemblyInfoInputs.cache
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\Regular.AssemblyInfo.cs
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\Regular.csproj.CoreCompileInputs.cache
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\Regular.dll
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\ref\Regular.dll
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\Regular.pdb
+D:\Learn\CTY\Buoi3\Regular\Regular\obj\Debug\net5.0\Regular.genruntimeconfig.cache

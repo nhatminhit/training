@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qqkfaHt7pwvdYjt7f4+C19kafj7R5SSNKj3Ubz1zcBA7HGn5qUMsTpjIZwP1uM3tzIEATPeE6g7GyW+ToEw5Rw==",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\CTY\\Buoi3\\Json\\Json\\Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AN515-57\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
