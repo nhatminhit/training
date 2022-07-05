@@ -1,0 +1,16 @@
+D:\Learn\CTY\Buoi3\Binary\Binary\bin\Debug\net5.0\Binary.exe
+D:\Learn\CTY\Buoi3\Binary\Binary\bin\Debug\net5.0\Binary.deps.json
+D:\Learn\CTY\Buoi3\Binary\Binary\bin\Debug\net5.0\Binary.runtimeconfig.json
+D:\Learn\CTY\Buoi3\Binary\Binary\bin\Debug\net5.0\Binary.runtimeconfig.dev.json
+D:\Learn\CTY\Buoi3\Binary\Binary\bin\Debug\net5.0\Binary.dll
+D:\Learn\CTY\Buoi3\Binary\Binary\bin\Debug\net5.0\ref\Binary.dll
+D:\Learn\CTY\Buoi3\Binary\Binary\bin\Debug\net5.0\Binary.pdb
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\Binary.csproj.AssemblyReference.cache
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\Binary.AssemblyInfoInputs.cache
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\Binary.AssemblyInfo.cs
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\Binary.csproj.CoreCompileInputs.cache
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\Binary.dll
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\ref\Binary.dll
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\Binary.pdb
+D:\Learn\CTY\Buoi3\Binary\Binary\obj\Debug\net5.0\Binary.genruntimeconfig.cache
