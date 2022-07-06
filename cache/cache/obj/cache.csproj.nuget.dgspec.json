@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\CTY\\Buoi3\\cache\\cache\\cache.csproj": {}
+    "C:\\Users\\AN515-57\\Documents\\training\\cache\\cache\\cache.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\CTY\\Buoi3\\cache\\cache\\cache.csproj": {
+    "C:\\Users\\AN515-57\\Documents\\training\\cache\\cache\\cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\CTY\\Buoi3\\cache\\cache\\cache.csproj",
+        "projectUniqueName": "C:\\Users\\AN515-57\\Documents\\training\\cache\\cache\\cache.csproj",
         "projectName": "cache",
-        "projectPath": "D:\\Learn\\CTY\\Buoi3\\cache\\cache\\cache.csproj",
+        "projectPath": "C:\\Users\\AN515-57\\Documents\\training\\cache\\cache\\cache.csproj",
         "packagesPath": "C:\\Users\\AN515-57\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\CTY\\Buoi3\\cache\\cache\\obj\\",
+        "outputPath": "C:\\Users\\AN515-57\\Documents\\training\\cache\\cache\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AN515-57\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKpkdnXO2AB+dPM6azV6xacIqYSmH/i/+NN0jB7OtX9DdVgCzMgvTjBjVAT8xWiLAIJ/4KHNP7xhVCbHrR5n/A==",
+  "dgSpecHash": "HE1pzgEsJaOniWSP1KZX7xTVQ9sFG4gqCSF+0MaTGd7/GJ1GtMv9Lpsh9KrzzjTYjhKqW1jPcZfjuobIupvk7g==",
   "success": true,
-  "projectFilePath": "D:\\Learn\\CTY\\Buoi3\\cache\\cache\\cache.csproj",
+  "projectFilePath": "C:\\Users\\AN515-57\\Documents\\training\\cache\\cache\\cache.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AN515-57\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.26\\microsoft.extensions.caching.abstractions.3.1.26.nupkg.sha512",
     "C:\\Users\\AN515-57\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.26\\microsoft.extensions.caching.memory.3.1.26.nupkg.sha512",
